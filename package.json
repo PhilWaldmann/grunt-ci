@@ -1,7 +1,7 @@
 {
   "name": "grunt-ci",
   "description": "Run all CI tests with one command",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "",
   "author": {
     "name": "Philipp Waldmann",

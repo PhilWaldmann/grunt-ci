@@ -23,7 +23,6 @@ module.exports = function(grunt) {
     jshint: {
       all: [
         base + '/gruntfile.js',
-        base + '/test/**/*.js',
         base + '/app/**/*.js',
         base + '/config/**/*.js',
       ],
